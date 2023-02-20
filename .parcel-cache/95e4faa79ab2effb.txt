@@ -1535,7 +1535,7 @@
 100/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/rel-noopener.js1676886740460058973 0
 106/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/link-rel-prerender.js1676886740440058691 0
 108/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/css-media-resolution.js1676886740372057732 0
-65/home/user/Documents/Javascript-Code/forkify/src/js/controller.js1676885951553574323 0
+65/home/user/Documents/Javascript-Code/forkify/src/js/controller.js1676898113309047384 0
 108/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/css-display-contents.js1676886740352057451 0
 107/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/reporter-dev-server/lib/ServerReporter.js1676886740244055927 0
 86/home/user/Documents/Javascript-Code/forkify/node_modules/chrome-trace-event/README.md1676886740032052938 0
@@ -2268,7 +2268,7 @@
 87/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/transformer-image/src1676886740076053560 1
 68/home/user/Documents/Javascript-Code/forkify/dist/index.f7626f62.css1676887837463954915 0
 108/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/css-overflow-overlay.js1676886740376057788 0
-67/home/user/Documents/Javascript-Code/forkify/dist/index.e37f48ea.js1676887837455955104 0
+67/home/user/Documents/Javascript-Code/forkify/dist/index.e37f48ea.js1676898124680989938 0
 93/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/http2.js1676886740424058465 0
 89/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/regions/MY.js1676886740448058803 0
 91/home/user/Documents/Javascript-Code/forkify/node_modules/@swc/helpers/lib/_create_class.js1676886740208055420 0
@@ -2328,7 +2328,7 @@
 81/home/user/Documents/Javascript-Code/forkify/node_modules/browserslist/browser.js1676886739988052318 0
 104/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/beforeafterprint.js1676886740264056209 0
 78/home/user/Documents/Javascript-Code/forkify/node_modules/chalk/source/util.js1676886740024052826 0
-49/home/user/Documents/Javascript-Code/forkify/dist1676887837547952931 1
+49/home/user/Documents/Javascript-Code/forkify/dist1676898124684989919 1
 86/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/resolver-default/lib1676886739988052318 1
 91/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/svg.js1676886740464059029 0
 94/home/user/Documents/Javascript-Code/forkify/node_modules/css-what/lib/commonjs/index.d.ts.map1676886740148054574 0
@@ -2565,7 +2565,7 @@
 89/home/user/Documents/Javascript-Code/forkify/node_modules/css-tree/lib/tokenizer/utils.js1676886740364057619 0
 97/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/classlist.js1676886740308056829 0
 95/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/colr-v1.js1676886740316056942 0
-71/home/user/Documents/Javascript-Code/forkify/dist/index.e37f48ea.js.map1676887837459955009 0
+71/home/user/Documents/Javascript-Code/forkify/dist/index.e37f48ea.js.map1676898124684989919 0
 97/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/utils/test/PromiseQueue.test.js1676886740312056886 0
 86/home/user/Documents/Javascript-Code/forkify/node_modules/css-tree/lib/parser/index.js1676886740320056999 0
 75/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/graph/src1676886740188055138 1
@@ -3582,7 +3582,7 @@
 84/home/user/Documents/Javascript-Code/forkify/node_modules/source-map-js/CHANGELOG.md1676887362433632432 0
 79/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/graph/LICENSE1676886739952051807 0
 85/home/user/Documents/Javascript-Code/forkify/node_modules/@jridgewell/sourcemap-codec1676886740096053841 1
-54/home/user/Documents/Javascript-Code/forkify/README.md1676885888465900580 0
+54/home/user/Documents/Javascript-Code/forkify/README.md1676888342315110603 0
 79/home/user/Documents/Javascript-Code/forkify/node_modules/source-map-js/LICENSE1676887362425632560 0
 107/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/transformer-image/src/ImageTransformer.js1676886740024052826 0
 66/home/user/Documents/Javascript-Code/forkify/node_modules/msgpackr1676886740312056886 1
