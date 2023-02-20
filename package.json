@@ -1,0 +1,24 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanChiosa/forkify.git"
+  },
+  "author": "Ivan Chiosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanChiosa/forkify/issues"
+  },
+  "homepage": "https://github.com/IvanChiosa/forkify#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3"
+  }
+}
