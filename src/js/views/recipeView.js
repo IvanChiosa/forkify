@@ -17,7 +17,6 @@ class RecipeView extends View {
     // window.addEventListener('load', handler);
 
   }
-
   _generateMarkup() {
     return `
       <figure class="recipe__fig">
