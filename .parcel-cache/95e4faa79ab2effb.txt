@@ -1,12 +1,13 @@
-7908
-57/home/user/Documents/Javascript-Code/forkify/package.json1676904379263112556 0
+7921
+57/home/user/Documents/Javascript-Code/forkify/package.json1676976291768784989 0
 61/home/user/Documents/Javascript-Code/forkify/src/img/logo.png1676885951549574360 0
 62/home/user/Documents/Javascript-Code/forkify/src/img/icons.svg1676885951549574360 0
 73/home/user/Documents/Javascript-Code/forkify/src/sass/_searchResults.scss1676885951553574323 0
 66/home/user/Documents/Javascript-Code/forkify/src/sass/_header.scss1676885951553574323 0
 67/home/user/Documents/Javascript-Code/forkify/src/sass/_preview.scss1676885951553574323 0
 66/home/user/Documents/Javascript-Code/forkify/src/sass/_recipe.scss1676885951553574323 0
-60/home/user/Documents/Javascript-Code/forkify/src/js/model.js1676973644087176583 0
+60/home/user/Documents/Javascript-Code/forkify/src/js/model.js1676988250643821829 0
+71/home/user/Documents/Javascript-Code/forkify/src/js/views/searchView.js1676987966604121169 0
 87/home/user/Documents/Javascript-Code/forkify/node_modules/@swc/helpers/scripts/build.sh1676886740280056435 0
 91/home/user/Documents/Javascript-Code/forkify/node_modules/@swc/helpers/scripts/generator.sh1676886740280056435 0
 78/home/user/Documents/Javascript-Code/forkify/node_modules/@swc/helpers/scripts1676886740280056435 1
@@ -126,6 +127,10 @@
 66/home/user/Documents/Javascript-Code/forkify/node_modules/anymatch1676887362429632497 1
 80/home/user/Documents/Javascript-Code/forkify/node_modules/to-regex-range/LICENSE1676886739992052374 0
 82/home/user/Documents/Javascript-Code/forkify/node_modules/to-regex-range/README.md1676886740016052713 0
+77/home/user/Documents/Javascript-Code/forkify/node_modules/fractional/index.js1676976291680785269 0
+93/home/user/Documents/Javascript-Code/forkify/node_modules/fractional/releases/fraction-0.1.js1676976291684785257 0
+93/home/user/Documents/Javascript-Code/forkify/node_modules/fractional/releases/fraction-0.2.js1676976291688785244 0
+77/home/user/Documents/Javascript-Code/forkify/node_modules/fractional/releases1676976291684785257 1
 86/home/user/Documents/Javascript-Code/forkify/node_modules/weak-lru-cache/tests/test.js1676886740052053221 0
 78/home/user/Documents/Javascript-Code/forkify/node_modules/weak-lru-cache/tests1676886740044053108 1
 82/home/user/Documents/Javascript-Code/forkify/node_modules/weak-lru-cache/README.md1676886740080053615 0
@@ -135,7 +140,7 @@
 87/home/user/Documents/Javascript-Code/forkify/node_modules/react-refresh/build-info.json1676886740116054123 0
 81/home/user/Documents/Javascript-Code/forkify/node_modules/react-refresh/README.md1676886740128054292 0
 115/home/user/Documents/Javascript-Code/forkify/node_modules/react-refresh/cjs/react-refresh-runtime.production.min.js1676886740096053841 0
-62/home/user/Documents/Javascript-Code/forkify/package-lock.json1676904379267112532 0
+62/home/user/Documents/Javascript-Code/forkify/package-lock.json1676976291764785002 0
 110/home/user/Documents/Javascript-Code/forkify/node_modules/react-refresh/cjs/react-refresh-babel.development.js1676886740020052770 0
 71/home/user/Documents/Javascript-Code/forkify/node_modules/react-refresh1676886740124054235 1
 78/home/user/Documents/Javascript-Code/forkify/node_modules/msgpackr-extract/bin1676886740016052713 1
@@ -1491,6 +1496,7 @@
 97/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/actual/function/has-instance.js1676904233543995215 0
 86/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/es/instance/flags.js1676904233499995484 0
 81/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/actual/function1676904233647994581 1
+79/home/user/Documents/Javascript-Code/forkify/node_modules/fractional/index.html1676976291684785257 0
 89/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/actual/number/is-nan.js1676904233599994873 0
 103/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/actual/number/virtual/to-precision.js1676904233775993801 0
 105/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/actual/number/virtual/to-exponential.js1676904233767993850 0
@@ -1779,7 +1785,7 @@
 81/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/transformer-svg1676886740104053954 1
 100/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/full/string/virtual/starts-with.js1676904233751993947 0
 86/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/packager-css/LICENSE1676886739952051807 0
-57/home/user/Documents/Javascript-Code/forkify/src/js/views1676972422988013911 1
+57/home/user/Documents/Javascript-Code/forkify/src/js/views1676986776099457532 1
 89/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/regions/MM.js1676886740444058748 0
 105/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/transformer-posthtml/src/loadPlugins.js1676886740024052826 0
 123/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo/index.js1676886740276056379 0
@@ -2149,7 +2155,7 @@
 94/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/proposals/math-extensions.js1676904233643994606 0
 94/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/features/weak-set/add-all.js1676904233307996654 0
 89/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/regions/TV.js1676886740468059086 0
-63/home/user/Documents/Javascript-Code/forkify/node_modules/@lmdb1676904379199112942 1
+63/home/user/Documents/Javascript-Code/forkify/node_modules/@lmdb1676976291696785219 1
 97/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/modules/es.date.to-primitive.js1676904233399996093 0
 96/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/internals/internal-metadata.js1676904233587994947 0
 83/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/core/src/requests1676886740396058071 1
@@ -2337,7 +2343,7 @@
 84/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/types/package.json1676886740064053390 0
 97/home/user/Documents/Javascript-Code/forkify/node_modules/htmlnano/lib/modules/removeUnusedCss.js1676886740212055477 0
 84/home/user/Documents/Javascript-Code/forkify/node_modules/binary-extensions/index.js1676887362429632497 0
-71/home/user/Documents/Javascript-Code/forkify/src/js/views/recipeView.js1676972400131737877 0
+71/home/user/Documents/Javascript-Code/forkify/src/js/views/recipeView.js1676987544324399274 0
 90/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/stable/weak-set/index.js1676904233583994971 0
 96/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/modules/es.typed-array.join.js1676904233435995873 0
 79/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/types/LICENSE1676886739952051807 0
@@ -2639,7 +2645,7 @@
 74/home/user/Documents/Javascript-Code/forkify/node_modules/domutils/LICENSE1676886739944051694 0
 73/home/user/Documents/Javascript-Code/forkify/node_modules/.bin/sshpk-conv1676886788052638370 0
 88/home/user/Documents/Javascript-Code/forkify/node_modules/domutils/lib/querying.d.ts.map1676886740144054518 0
-60/home/user/Documents/Javascript-Code/forkify/dist/index.html1676973656610674255 0
+60/home/user/Documents/Javascript-Code/forkify/dist/index.html1676980756317453044 0
 104/home/user/Documents/Javascript-Code/forkify/node_modules/@swc/helpers/lib/_skip_first_generator_next.js1676886740252056040 0
 97/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/modules/esnext.iterator.some.js1676904233447995800 0
 87/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/modules/web.timers.js1676904233827993484 0
@@ -2880,6 +2886,7 @@
 79/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/utils/LICENSE1676886740024052826 0
 89/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/regions/FI.js1676886740416058353 0
 99/home/user/Documents/Javascript-Code/forkify/node_modules/source-map-js/lib/source-map-generator.js1676887362433632432 0
+62/home/user/Documents/Javascript-Code/forkify/src/js/helpers.js1676983438513489811 0
 87/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/actual/promise/any.js1676904233315996605 0
 88/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/fs-search/package.json1676886739996052431 0
 89/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/regions/CO.js1676886740316056942 0
@@ -3225,7 +3232,7 @@
 107/home/user/Documents/Javascript-Code/forkify/node_modules/dom-serializer/node_modules/entities/package.json1676886740120054180 0
 97/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/transformer-babel/src/babel7.js1676886740024052826 0
 98/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/es/string/virtual/replace-all.js1676904233687994338 0
-68/home/user/Documents/Javascript-Code/forkify/dist/icons.21bad73c.svg1676905211166306858 0
+68/home/user/Documents/Javascript-Code/forkify/dist/icons.21bad73c.svg1676980756341452940 0
 89/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/plugin/src/PluginAPI.js1676886740024052826 0
 83/home/user/Documents/Javascript-Code/forkify/node_modules/sass/types/value/map.d.ts1676887362797626623 0
 90/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/full/iterator/indexed.js1676904233583994971 0
@@ -3276,7 +3283,7 @@
 107/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/css-in-out-of-range.js1676886740364057619 0
 82/home/user/Documents/Javascript-Code/forkify/node_modules/yaml/dist/test-events.js1676886740248055984 0
 94/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/proposals/async-iteration.js1676904233327996532 0
-75/home/user/Documents/Javascript-Code/forkify/node_modules/@msgpackr-extract1676904379199112942 1
+75/home/user/Documents/Javascript-Code/forkify/node_modules/@msgpackr-extract1676976291696785219 1
 87/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/internals/is-array.js1676904233587994947 0
 93/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/actual/instance/trim-end.js1676904233799993654 0
 91/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/features/array/reverse.js1676904233691994313 0
@@ -3567,7 +3574,7 @@
 86/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/full/map/group-by.js1676904233543995215 0
 89/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/regions/LK.js1676886740440058691 0
 96/home/user/Documents/Javascript-Code/forkify/node_modules/css-tree/lib/syntax/node/IdSelector.js1676886740308056829 0
-72/home/user/Documents/Javascript-Code/forkify/dist/index.f7626f62.css.map1676905211046306709 0
+72/home/user/Documents/Javascript-Code/forkify/dist/index.f7626f62.css.map1676980756321453027 0
 100/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/actual/array/virtual/find-index.js1676904233483995581 0
 96/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/download.js1676886740412058296 0
 98/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/es6-number.js1676886740412058296 0
@@ -3683,7 +3690,7 @@
 96/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/dist/unpacker/features.js1676886740416058353 0
 105/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/transformer-image/src/validateConfig.js1676886740084053672 0
 110/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/form-submit-attributes.js1676886740420058409 0
-67/home/user/Documents/Javascript-Code/forkify/dist/logo.726d37a8.png1676905211050306714 0
+67/home/user/Documents/Javascript-Code/forkify/dist/logo.726d37a8.png1676980756321453027 0
 93/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/modules/esnext.set.every.js1676904233455995752 0
 94/home/user/Documents/Javascript-Code/forkify/node_modules/css-tree/lib/syntax/node/Function.js1676886740296056661 0
 73/home/user/Documents/Javascript-Code/forkify/node_modules/css-what/lib/es1676886740200055307 1
@@ -3785,7 +3792,7 @@
 84/home/user/Documents/Javascript-Code/forkify/node_modules/css-tree/lib/syntax/config1676886740368057676 1
 79/home/user/Documents/Javascript-Code/forkify/node_modules/import-fresh/index.js1676886739988052318 0
 89/home/user/Documents/Javascript-Code/forkify/node_modules/entities/lib/maps/entities.json1676886740148054574 0
-68/home/user/Documents/Javascript-Code/forkify/dist/icons.dfd7a6db.svg1676973656610674255 0
+68/home/user/Documents/Javascript-Code/forkify/dist/icons.dfd7a6db.svg1676980756317453044 0
 77/home/user/Documents/Javascript-Code/forkify/node_modules/css-tree/lib/walker1676886740328057112 1
 98/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/package-manager/lib/index.js.map1676886740304056774 0
 83/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/utils/src/hash.js1676886740192055194 0
@@ -3830,7 +3837,7 @@
 73/home/user/Documents/Javascript-Code/forkify/forkify-flowchart-part-2.png1676885951541574434 0
 94/home/user/Documents/Javascript-Code/forkify/node_modules/css-what/lib/commonjs/index.d.ts.map1676886740148054574 0
 91/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/svg.js1676886740464059029 0
-49/home/user/Documents/Javascript-Code/forkify/dist1676973656610674255 1
+49/home/user/Documents/Javascript-Code/forkify/dist1676987966684121094 1
 78/home/user/Documents/Javascript-Code/forkify/node_modules/chalk/source/util.js1676886740024052826 0
 95/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/features/instance/includes.js1676904233551995167 0
 104/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/beforeafterprint.js1676886740264056209 0
@@ -3902,11 +3909,11 @@
 93/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/http2.js1676886740424058465 0
 92/home/user/Documents/Javascript-Code/forkify/node_modules/@swc/helpers/src/_create_super.mjs1676886740316056942 0
 111/home/user/Documents/Javascript-Code/forkify/node_modules/@swc/helpers/src/_class_private_field_destructure.mjs1676886740300056717 0
-67/home/user/Documents/Javascript-Code/forkify/dist/index.e37f48ea.js1676973656590675046 0
+67/home/user/Documents/Javascript-Code/forkify/dist/index.e37f48ea.js1676987966684121094 0
 98/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/hashchange.js1676886740424058465 0
 108/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/css-overflow-overlay.js1676886740376057788 0
 88/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/internals/is-regexp.js1676904233599994873 0
-68/home/user/Documents/Javascript-Code/forkify/dist/index.f7626f62.css1676905211014306669 0
+68/home/user/Documents/Javascript-Code/forkify/dist/index.f7626f62.css1676980756317453044 0
 93/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/full/instance/find-index.js1676904233487995557 0
 82/home/user/Documents/Javascript-Code/forkify/node_modules/htmlnano/lib/htmlnano.js1676886740144054518 0
 93/home/user/Documents/Javascript-Code/forkify/node_modules/sass/types/value/argument_list.d.ts1676887362797626623 0
@@ -3920,7 +3927,7 @@
 82/home/user/Documents/Javascript-Code/forkify/node_modules/css-what/lib/es/index.js1676886740052053221 0
 78/home/user/Documents/Javascript-Code/forkify/node_modules/msgpackr/SECURITY.md1676886740308056829 0
 89/home/user/Documents/Javascript-Code/forkify/node_modules/htmlnano/lib/presets/ampSafe.js1676886740008052600 0
-65/home/user/Documents/Javascript-Code/forkify/src/js/controller.js1676973641575279113 0
+65/home/user/Documents/Javascript-Code/forkify/src/js/controller.js1676987905584176447 0
 100/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/css-counters.js1676886740348057394 0
 113/home/user/Documents/Javascript-Code/forkify/node_modules/htmlnano/docs/versioned_docs/version-2.0.0/020-usage.md1676886740300056717 0
 72/home/user/Documents/Javascript-Code/forkify/node_modules/yaml/README.md1676886740272056322 0
@@ -4064,6 +4071,7 @@
 72/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/fs/src1676886740144054518 1
 94/home/user/Documents/Javascript-Code/forkify/node_modules/css-tree/lib/lexer/prepare-tokens.js1676886740352057451 0
 79/home/user/Documents/Javascript-Code/forkify/node_modules/terser/tools/exit.cjs1676886740056053277 0
+78/home/user/Documents/Javascript-Code/forkify/node_modules/fractional/README.md1676976291676785282 0
 85/home/user/Documents/Javascript-Code/forkify/node_modules/css-tree/lib/lexer/index.js1676886740320056999 0
 108/home/user/Documents/Javascript-Code/forkify/node_modules/@swc/helpers/lib/_tagged_template_literal_loose.js1676886740260056154 0
 80/home/user/Documents/Javascript-Code/forkify/node_modules/yaml/browser/schema.js1676886740244055927 0
@@ -4211,6 +4219,7 @@
 90/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/actual/regexp/replace.js1676904233687994338 0
 84/home/user/Documents/Javascript-Code/forkify/node_modules/css-what/lib/es/parse.d.ts1676886740196055251 0
 71/home/user/Documents/Javascript-Code/forkify/node_modules/yaml/util.mjs1676886740272056322 0
+81/home/user/Documents/Javascript-Code/forkify/node_modules/fractional/package.json1676976291672785295 0
 120/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-web/package.json1676886740208055420 0
 87/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/types/lib/unsafe.d.ts1676886740124054235 0
 95/home/user/Documents/Javascript-Code/forkify/node_modules/lightningcss-linux-x64-musl/README.md1676886739996052431 0
@@ -4715,7 +4724,7 @@
 98/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/modules/esnext.typed-array.at.js1676904233463995703 0
 102/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/features/typed-array/uint32-array.js1676904233811993582 0
 85/home/user/Documents/Javascript-Code/forkify/node_modules/immutable/dist/immutable.js1676887362617629496 0
-70/home/user/Documents/Javascript-Code/forkify/dist/favicon.8b2f57bf.png1676905211150306838 0
+70/home/user/Documents/Javascript-Code/forkify/dist/favicon.8b2f57bf.png1676980756341452940 0
 76/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/plugin/lib1676886739988052318 1
 80/home/user/Documents/Javascript-Code/forkify/node_modules/js-tokens/package.json1676886739944051694 0
 92/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/webm.js1676886740476059198 0
@@ -5479,7 +5488,7 @@
 145/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias-exclude/package.json1676886740376057788 0
 136/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/aliased-file/package.json1676886740376057788 0
 106/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/css-grid-animation.js1676886740360057563 0
-71/home/user/Documents/Javascript-Code/forkify/dist/index.e37f48ea.js.map1676973656594674888 0
+71/home/user/Documents/Javascript-Code/forkify/dist/index.e37f48ea.js.map1676987966684121094 0
 151/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-up/foo/bar1676886740396058071 1
 96/home/user/Documents/Javascript-Code/forkify/node_modules/@mischnic/json-sourcemap/dist/index.js1676886740048053165 0
 99/home/user/Documents/Javascript-Code/forkify/node_modules/@swc/helpers/src/_non_iterable_spread.mjs1676886740336057224 0
@@ -6346,6 +6355,7 @@
 82/home/user/Documents/Javascript-Code/forkify/node_modules/dotenv-expand/index.d.ts1676886739996052431 0
 87/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/features/set/every.js1676904233471995654 0
 83/home/user/Documents/Javascript-Code/forkify/node_modules/type-fest/ts41/index.d.ts1676886740156054687 0
+77/home/user/Documents/Javascript-Code/forkify/node_modules/fractional/tests.js1676976291680785269 0
 80/home/user/Documents/Javascript-Code/forkify/node_modules/@lezer/lr/package.json1676886740100053897 0
 88/home/user/Documents/Javascript-Code/forkify/node_modules/type-fest/ts41/snake-case.d.ts1676886740220055589 0
 87/home/user/Documents/Javascript-Code/forkify/node_modules/css-tree/lib/syntax/create.js1676886740236055815 0
@@ -6363,6 +6373,7 @@
 88/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/core/src/Dependency.js1676886740296056661 0
 82/home/user/Documents/Javascript-Code/forkify/node_modules/is-binary-path/readme.md1676887362429632497 0
 91/home/user/Documents/Javascript-Code/forkify/node_modules/htmlparser2/lib/WritableStream.js1676886740080053615 0
+84/home/user/Documents/Javascript-Code/forkify/node_modules/fractional/array_mixins.js1676976291676785282 0
 106/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/css-math-functions.js1676886740368057676 0
 93/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/internals/iterators-core.js1676904233615994776 0
 77/home/user/Documents/Javascript-Code/forkify/node_modules/glob-parent/LICENSE1676887362425632560 0
@@ -6629,7 +6640,7 @@
 75/home/user/Documents/Javascript-Code/forkify/node_modules/json5/lib/util.js1676886740152054630 0
 78/home/user/Documents/Javascript-Code/forkify/node_modules/json5/lib/require.js1676886740128054292 0
 76/home/user/Documents/Javascript-Code/forkify/node_modules/json5/lib/index.js1676886740064053390 0
-76/home/user/Documents/Javascript-Code/forkify/node_modules/.package-lock.json1676904379291112388 0
+76/home/user/Documents/Javascript-Code/forkify/node_modules/.package-lock.json1676976291796784901 0
 95/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/es/array/virtual/to-sorted.js1676904233779993777 0
 96/home/user/Documents/Javascript-Code/forkify/node_modules/terser/lib/utils/first_in_statement.js1676886740280056435 0
 74/home/user/Documents/Javascript-Code/forkify/node_modules/json5/lib/cli.js1676886739988052318 0
@@ -6779,7 +6790,7 @@
 89/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/actual/iterator/from.js1676904233523995337 0
 101/home/user/Documents/Javascript-Code/forkify/node_modules/csso/lib/restructure/prepare/specificity.js1676886740268056266 0
 78/home/user/Documents/Javascript-Code/forkify/node_modules/buffer-from/index.js1676886739988052318 0
-57/home/user/Documents/Javascript-Code/forkify/node_modules1676904379199112942 1
+57/home/user/Documents/Javascript-Code/forkify/node_modules1676976291696785219 1
 114/home/user/Documents/Javascript-Code/forkify/node_modules/csso/lib/restructure/prepare/createDeclarationIndexer.js1676886740200055307 0
 106/home/user/Documents/Javascript-Code/forkify/node_modules/caniuse-lite/data/features/orientation-sensor.js1676886740452058860 0
 101/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/features/object/set-prototype-of.js1676904233707994216 0
@@ -7120,7 +7131,7 @@
 88/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/internals/microtask.js1676904233647994581 0
 84/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/full/map/key-of.js1676904233619994752 0
 94/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/modules/esnext.math.isubh.js1676904233451995776 0
-51/home/user/Documents/Javascript-Code/forkify/src/js1676972392067641879 1
+51/home/user/Documents/Javascript-Code/forkify/src/js1676980705777676922 1
 96/home/user/Documents/Javascript-Code/forkify/node_modules/cosmiconfig/dist/ExplorerBase.d.ts.map1676886740132054349 0
 94/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/modules/es.array.index-of.js1676904233395996117 0
 88/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/full/instance/flags.js1676904233503995459 0
@@ -7520,6 +7531,7 @@
 89/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/internals/a-weak-map.js1676904233299996703 0
 96/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/stable/symbol/to-string-tag.js1676904233787993728 0
 107/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/internals/symbol-constructor-detection.js1676904233763993874 0
+68/home/user/Documents/Javascript-Code/forkify/node_modules/fractional1676976291684785257 1
 105/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/internals/get-json-replacer-function.js1676904233531995288 0
 86/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/stable/math/atanh.js1676904233335996483 0
 94/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/features/set/intersection.js1676904233587994947 0
@@ -7647,6 +7659,7 @@
 93/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/transformer-postcss/LICENSE1676886739952051807 0
 94/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/modules/es.string.pad-end.js1676904233419995970 0
 93/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/features/instance/values.js1676904233823993508 0
+61/home/user/Documents/Javascript-Code/forkify/src/js/config.js1676985881281044966 0
 84/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/optimizer-svgo/lib1676886739988052318 1
 167/home/user/Documents/Javascript-Code/forkify/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/.pnpm/source-pnpm@1.0.0/node_modules/source-pnpm/dist.js1676886740236055815 0
 96/home/user/Documents/Javascript-Code/forkify/node_modules/core-js/features/instance/trim-left.js1676904233799993654 0
